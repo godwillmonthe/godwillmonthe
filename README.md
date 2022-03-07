@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/godwillmonthe/godwillmonthe/blob/master/Godwill%20Oletile%20Monthe.png?raw=true" alt="Banner"/></p>
 <h3 align="center">Flutter Enthusiast, Mobile Application Developer(native), Web Developer</h3>
-<h6 align="center">🌱 I’m currently learning <a href="https://firebase.google.com/" target="_blank">firebase</h6>
+<h6 align="center">🌱 I’m currently interested with <a href="https://www.google.com/machine%20learning/" target="_blank">Machine Learning</h6>
   
  ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
